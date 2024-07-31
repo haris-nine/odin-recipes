@@ -1,6 +1,14 @@
+* {
+    background-color: antiquewhite;
+}
+
 h1 {
     font-weight: bold;
     font-family: Helvetica, sans-serif;
+    background-color: aquamarine;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
 }
 
 p {
@@ -9,4 +17,10 @@ p {
 
 ul {
     font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+#link {
+    display: block;
+    text-align: right;
 }
